@@ -124,6 +124,9 @@ p pre,
 li pre {
     @include font(14);
     background-color: $color_gray;
+		@media #{$small} {
+			color: $black !important;
+		}
     border: 1px solid $color_mischka;
     @include rounded(4px);
     margin: 0 2px;
