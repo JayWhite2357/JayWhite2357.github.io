@@ -232,3 +232,44 @@
   -webkit-animation-name: rotateIn;
   animation-name: rotateIn;
 }
+
+@-webkit-keyframes spinIn {
+  from {
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    -webkit-transform: rotate3d(0, 1, 0, -200deg);
+    transform: rotate3d(0, 1, 0, -200deg);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    -webkit-transform: none;
+    transform: none;
+    opacity: 1;
+  }
+}
+
+@keyframes spinIn {
+  from {
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    -webkit-transform: rotate3d(0, 1, 0, -200deg);
+    transform: rotate3d(0, 1, 0, -200deg);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    -webkit-transform: none;
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.spinIn {
+  -webkit-animation-name: spinIn;
+  animation-name: spinIn;
+}
