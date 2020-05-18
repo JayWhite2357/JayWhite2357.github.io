@@ -21,7 +21,6 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
 	}
 }
 * {
@@ -84,7 +83,8 @@ body {
 	@media #{$small} {
 		width: 100%;
 	    box-shadow: none;
-			background-color: $red;
+			background-color: $bodycolor;
+			color: $color_alabaster !important;
 	}
 	@media #{$medium} {
 		width: 80%;
@@ -115,6 +115,8 @@ body {
 		width: 90%;
 		padding: 2em 0;
 	    box-shadow: none;
+			background-color: $bodycolor;
+			color: $color_alabaster !important;
 	}
 }
 #disqus_thread {
