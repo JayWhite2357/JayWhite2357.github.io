@@ -1,9 +1,5 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
-on:
-  push:
-    branches:
-      - gh-pages
 
 jobs:
   github-pages:
