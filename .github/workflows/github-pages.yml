@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages
+      - master
 
 jobs:
   github-pages:
@@ -19,6 +19,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       
-      - uses: helaili/jekyll-action@2.0.0
+      - uses: helaili/jekyll-action@2.0.2
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
