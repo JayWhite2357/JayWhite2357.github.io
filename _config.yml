@@ -21,3 +21,6 @@ kramdown:
 sass:
   sass_dir:         _sass
   style:            compressed
+
+exclude:
+  - /assets/img/PermanentMarker-Regular.ttf
