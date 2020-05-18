@@ -84,6 +84,7 @@ body {
 	@media #{$small} {
 		width: 100%;
 	    box-shadow: none;
+			background-color: $red;
 	}
 	@media #{$medium} {
 		width: 80%;
