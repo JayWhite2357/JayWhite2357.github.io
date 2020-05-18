@@ -11,6 +11,6 @@ comments: false
 * Calculus 2 - Summer 2019 (MA 114)
 * AAAA
 
-# Teacing assistent
+# Teaching assistent
 * ganrjkgnarg
 * arngjkanrgjkrng
