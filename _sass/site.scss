@@ -19,9 +19,10 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
-	@media #{$small} {
+	/*@media #{$small} {
 	    background-image: none !important;
-	}
+			background-color: $white;
+	}*/
 }
 * {
 	box-sizing: border-box;
@@ -82,9 +83,7 @@ body {
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
-	    box-shadow: none;
-			background-color: $bodycolor;
-			color: $color_alabaster !important;
+	  //box-shadow: none;
 	}
 	@media #{$medium} {
 		width: 80%;
@@ -112,11 +111,9 @@ body {
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
-		width: 90%;
+		width: 100%;//90%
 		padding: 2em 0;
-	    box-shadow: none;
-			background-color: $bodycolor;
-			color: $color_alabaster !important;
+	  //box-shadow: none;
 	}
 }
 #disqus_thread {

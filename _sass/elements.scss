@@ -22,10 +22,6 @@
 	@include font-rem(14);
 	margin: 4px auto;
 	@extend %btnextend;
-	@media #{$small} {
-			background-color: $bodycolor !important;
-			color: $color_alabaster !important;
-	}
 	&.btn-success {
       background-color: $success;
       color: $white;

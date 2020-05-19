@@ -50,10 +50,6 @@ h3.title a {
 		text-decoration: none;
 		background: $white;
 		color: $color_shark;
-		@media #{$small} {
-			background: $bodycolor;
-			color: $color_alabaster !important;
-		}
 		a {
 			@include font-rem(20);
 			text-decoration: none;
@@ -95,9 +91,6 @@ figcaption {
 a {
   transition: color .4s;
   color: $color_shark;
-	@media #{$small} {
-		color: $color_alabaster !important;
-	}
   &:link {
   	color: $color_shark;
   }
@@ -124,9 +117,6 @@ p pre,
 li pre {
     @include font(14);
     background-color: $color_gray;
-		@media #{$small} {
-			color: $black !important;
-		}
     border: 1px solid $color_mischka;
     @include rounded(4px);
     margin: 0 2px;
