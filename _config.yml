@@ -7,6 +7,7 @@ portrait:           'assets/img/portrait.jpg'
 background:         'assets/img/background.jpg'
 locale:             en_US
 url:                https://JayWhite2357.github.io
+future: true
 
 # Jekyll
 permalink:          /:title/
