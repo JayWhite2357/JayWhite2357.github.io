@@ -1,0 +1,28 @@
+-- -*- M2-comint -*- hash: 850266454
+
+i1 : lexsegmentIdeal (QQ[x_1..x_4], {1,2,3,3,3,3})
+
+                     3
+o1 = ideal (x , x , x )
+             1   2   3
+
+o1 : Ideal of QQ[x , x , x , x ]
+                  1   2   3   4
+
+i2 : lexsegmentIdeal (QQ[x_1..x_4], {1,2,3,3,3,3,0}) --Artinian
+
+                     3   2 4     5   6
+o2 = ideal (x , x , x , x x , x x , x )
+             1   2   3   3 4   3 4   4
+
+o2 : Ideal of QQ[x , x , x , x ]
+                  1   2   3   4
+
+i3 : lexsegmentIdeal (QQ[x_1..x_5], {1,5,15,35})
+
+o3 = ideal 0
+
+o3 : Ideal of QQ[x , x , x , x , x ]
+                  1   2   3   4   5
+
+i4 : 
