@@ -26,4 +26,4 @@ sass:
 exclude:
   - /assets/img/PermanentMarker-Regular.ttf
 include:
-  - /MaxBettiNumbers/_*
+  - /MaxBettiNumbers/_almost__Lex__Betti.html
