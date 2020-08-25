@@ -5,6 +5,6 @@ date: 2020-05-17
 comments: false
 ---
     
-My interests are in the area of commutative algebra. One aspect of this is that I am interested in writing code and packages for Macaulay2, a piece of software useful for computations in algebra.
+My interests are in the area of commutative algebra. I am specifically interested in studying free resolutions.
 
-For my thesis, I am working on finding bounds for Betti numbers of an ideal when fixing certain information about the Hilbert function. One aspect of this is a Macaulay2 package that finds ideals that give maximal Betti numbers from certain bounds on the Hilbert function. The current link to the code is [here](https://github.com/JayWhite2357/maxbetti)
+For my thesis, I am studying under Uwe Nagel and am working on finding bounds for Betti numbers of an ideal when certain information about the Hilbert function is fixed. One aspect of this is developing the Macaulay2 package ["MaxBettiNumbers"](https://github.com/JayWhite2357/MaxBettiNumbersProject).
