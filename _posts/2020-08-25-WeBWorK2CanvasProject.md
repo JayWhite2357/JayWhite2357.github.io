@@ -5,7 +5,7 @@ date:   2020-08-25
 excerpt: "App for quickly importing WeBWorK assignments into Canvas"
 project: true
 comments: false
-priority: 2
+priority: 200
 ---
 
 My university uses WeBWorK and Canvas, and it is tedious to get the two to work smoothly together. To that end, I have created some small HTML apps to automate the process for me.
