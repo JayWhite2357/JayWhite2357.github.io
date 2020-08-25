@@ -5,7 +5,7 @@ date:   2020-06-12
 excerpt: "GitHub template Repository"
 project: true
 comments: false
-priority: 3
+priority: 300
 ---
 
 AutoCompileLaTeX is a template repository that uses GitHub Actions to automatically compile *.tex files. Anyone can easily copy it.
