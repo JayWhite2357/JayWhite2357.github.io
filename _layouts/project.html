@@ -22,7 +22,8 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {% assign sortedPosts = site.post | sort: 'priority' %}
+                    {% for post in sortedPosts %} 
                         {% if post.project %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
