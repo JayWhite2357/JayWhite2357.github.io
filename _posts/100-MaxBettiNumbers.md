@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MaxBettiNumbers"
-date:   2020-06-01
+date:   2020-07-24
 excerpt: "Macaulay2 package"
 project: true
 comments: false
