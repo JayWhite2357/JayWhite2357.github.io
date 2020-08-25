@@ -3,7 +3,7 @@ layout: post
 title:  "MaxBettiNumbers"
 date:   2020-06-01
 excerpt: "Macaulay2 package"
-course: true
+project: true
 comments: false
 ---
 
