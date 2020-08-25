@@ -3,7 +3,7 @@ layout: post
 title:  "Courses List"
 date:   2020-05-01
 excerpt: "List of courses I have taught"
-project: true
+course: true
 comments: false
 ---
 
