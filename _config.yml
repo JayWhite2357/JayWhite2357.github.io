@@ -23,6 +23,9 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+collections:
+  sort_by: 'file'
+
 exclude:
   - /assets/img/PermanentMarker-Regular.ttf
 include:
