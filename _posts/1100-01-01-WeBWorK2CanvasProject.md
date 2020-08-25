@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "WeBWorK2Canvas"
-date:   2020-06-12
+date:   2020-08-25
 excerpt: "App for quickly importing WeBWorK assignments into Canvas"
 project: true
 comments: false
