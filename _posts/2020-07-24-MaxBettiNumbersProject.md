@@ -5,7 +5,7 @@ date:   2020-07-24
 excerpt: "Macaulay2 package"
 project: true
 comments: false
-priority: 1
+priority: 100
 ---
 
 I have created a package for Macaulay2. I have submitted it to JSAG, and it will hopefully soon be in the Macaulay2 distribution itself.
