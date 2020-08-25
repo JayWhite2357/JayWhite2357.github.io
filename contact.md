@@ -9,4 +9,4 @@ For students, the best way to contact me is through Canvas. You can find links o
 
 For everyone else, the best way to contact me is via email. My email is jay dot white at uky dot edu.[^1]
 
-[^1]: I use `at` and `dot` instead of `@` and `.` because posting my email verbatim result in a ton of spam emails.
+[^1]: I use `at` and `dot` instead of `@` and `.` because posting my email verbatim results in a ton of spam emails.
