@@ -24,4 +24,4 @@ For my thesis, I am studying under Uwe Nagel and am working on finding ideals th
 *Talk: Betti Number Maximization and Bounds.*
 * AMS Spring Central Sectional Meeting, Ohio State University, March 2018
 * Macaulay2 Conference/Workshop, University of California, Berkeley, July 2017\
-*Worked on a package for Lex-Plus-Powers.*
+*Worked on a package for Lex-plus-powers.*
