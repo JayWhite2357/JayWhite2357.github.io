@@ -17,7 +17,7 @@ For my thesis, I am studying under Uwe Nagel and am working on finding ideals th
 
 #### Talks/Conferences
 * Macaulay2 Workshop and Conference at Cleveland State University, May 2020\
-*Worked on a package that does fast computations on monomial ideals.*
+*Worked on "MonomialIntegerPrograms", which does faster computations on monomial ideals.*
 * Joint Mathematics Meetings, Denver, CO, January 2020\
 *Talk: Maximum Betti Numbers when fixing partial data about Hilbert functions.*
 * Algebra Seminar, University of Kentucky, February 2019\
