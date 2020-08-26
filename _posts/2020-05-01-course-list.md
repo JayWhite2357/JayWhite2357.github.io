@@ -8,7 +8,7 @@ comments: false
 ---
 
 # Primary instructor
-* [College Algebra (MA 114) - Fall 2020](/MA109FA20/)
+* [College Algebra (MA 109) - Fall 2020](/MA109FA20/)
 * [Calculus 3 (MA 213) - Summer 2020](/MA213SU20/)
 * Calculus 2 (MA 114) - Summer 2019
 * Mathematics for Elementary Teachers (MA 201) - Spring 2019
