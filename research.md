@@ -10,7 +10,7 @@ My current research interests are in the area of Commutative Algebra, and specif
 For my thesis, I am studying under Uwe Nagel and am working on finding ideals that simultaneously maximizes the total Betti numbers of the family of ideals created by fixing bounds on the Hilbert function. This is a generalization of some similar results. One aspect of this is developing the Macaulay2 package ["MaxBettiNumbers"](https://jaywhite2357.github.io/MaxBettiNumbersProject/).
 
 #### Publications
-* Upper bounds for Betti numbers from constraints on the Hilbert function (submitted for publication)
+* Upper bounds for Betti numbers from constraints on the Hilbert function. (submitted for publication)
 
 #### Projects
 * See [here](https://jaywhite2357.github.io/projects/).
