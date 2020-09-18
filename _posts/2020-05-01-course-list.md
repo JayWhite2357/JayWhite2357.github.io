@@ -13,6 +13,7 @@ comments: false
 * Calculus 2 (MA 114) - Summer 2019
 * Mathematics for Elementary Teachers (MA 201) - Spring 2019
 * Calculus 2 (MA 114) - Summer 2017
+* Intro to Contemporary Math (MA 111) - Summer 2016
 
 # Teaching assistent
 * Calculus 2 (MA 114) - Spring 2020
