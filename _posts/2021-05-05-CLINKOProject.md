@@ -7,4 +7,4 @@ project: true
 comments: false
 priority: 200
 ---
-[The random little game is here. Perhaps this page will have more content in the future.](https://jaywhite2357.github.io/CLINKO/)
+[The random little game is here. Perhaps this page will have more content in the future.](https://jaywhite2357.github.io/CLINKO)
